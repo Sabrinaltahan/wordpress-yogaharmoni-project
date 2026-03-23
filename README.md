@@ -112,7 +112,7 @@ author  JCFf*7o8IxkN213X#jFG&Zv%
 https://www.figma.com/design/LYfHpS033uP2yKvRDxQRIs/Untitled?node-id=0-1&t=GzfAFS06Ds71ZfQV-1
 
 ## GITHUB LÄNK 
-https://github.com/Sabrinaltahan/wordpress-dt209g-Project-Harmoni-yoga.git
+https://github.com/Sabrinaltahan/wordpress-yogaharmoni-project.git
 
 ## HOST LÄNK
 https://shop.harmoni.fun/?page_id=202
